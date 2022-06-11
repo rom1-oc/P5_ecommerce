@@ -16,7 +16,7 @@ Votre objectif est de comprendre les différents types d’utilisateurs grâce �
 
 Vous devrez fournir à l’équipe marketing une description actionable de votre segmentation et de sa logique sous-jacente pour une utilisation optimale, ainsi qu’une proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps.
 
-# Objectif 
+# Objectifs 
 Votre mission est d’aider les équipes d’Olist à comprendre les différents types d'utilisateurs. Vous utiliserez donc des méthodes non supervisées pour regrouper des clients de profils similaires. Ces catégories pourront être utilisées par l’équipe Marketing pour mieux communiquer. 
 Vous créez donc un notebook et démarrez votre travail d’analyse exploratoire. 
 

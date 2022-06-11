@@ -11,7 +11,9 @@
 Vous êtes consultant pour Olist, une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne.
 
 Olist souhaite que vous fournissiez à ses équipes d'e-commerce une segmentation des clients qu’elles pourront utiliser au quotidien pour leurs campagnes de communication. 
-Votre objectif est de comprendre les différents types d’utilisateurs grâce à leur comportement et à leurs données personnelles. 
+
+Votre objectif est de comprendre les différents types d’utilisateurs grâce à leur comportement et à leurs données personnelles.  
+
 Vous devrez fournir à l’équipe marketing une description actionable de votre segmentation et de sa logique sous-jacente pour une utilisation optimale, ainsi qu’une proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps.
 
 # Objectif 
@@ -22,10 +24,14 @@ Après quelques premières analyses, vous vous rendez compte qu’Olist ne vous 
  
 Bonjour,   
 Pour des raisons de confidentialité, nous ne pouvons pas vous fournir beaucoup de données à ce stade. Ensuite, en raison de ressources limitées, nous avons dû vous fournir l’ensemble des données, alors que seule une partie va vous intéresser. Nos dashboards internes nous indiquent en effet que seuls 3 % des clients du fichier de données partagé avec vous ont réalisé plusieurs commandes. 
+
 Nous sommes confiants sur le fait que les données à disposition suffiront pour réaliser un premier clustering. Cela a déjà été fait par d’autres prestataires par le passé, avec encore moins de données. 
+
 La segmentation proposée doit être exploitable et facile d’utilisation par notre équipe Marketing. Elle doit au minimum pouvoir différencier les bons et moins bons clients en termes de commandes et de satisfaction. Nous attendons bien sûr une segmentation sur l’ensemble des clients. 
+
 Dans un deuxième temps, une fois le modèle de segmentation choisi, nous souhaiterions  que vous nous fassiez une recommandation de fréquence à laquelle la segmentation doit être mise à jour pour rester pertinente, afin de pouvoir effectuer un devis de contrat de maintenance. 
-Pour information, le code fourni doit respecter la convention PEP8, pour être utilisable par Olist. 
+Pour information, le code fourni doit respecter la convention PEP8, pour être utilisable par Olist.
+
 Bien à vous,  
 Juan, de l’équipe Marketing. 
 
